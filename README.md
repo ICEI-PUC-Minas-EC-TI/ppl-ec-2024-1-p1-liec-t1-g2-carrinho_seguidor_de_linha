@@ -11,21 +11,22 @@
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Ariel Inácio Jordão Coelho
+* Henrique Augusto Figueiredo Feydit Vieira
+* Gabriel Mamede Albino
+* Pedro Gonçalves Constantino
+* Pedro Ricoy de Oliveira e Silva
+* Victor Teixeira Lenzoni
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
-# Código (do arduino ou esp32)
+# Código do ESP32
 
 <li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
 
