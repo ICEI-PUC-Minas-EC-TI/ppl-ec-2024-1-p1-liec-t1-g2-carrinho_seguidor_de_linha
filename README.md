@@ -1,12 +1,12 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`CAMPUS/UNIDADE`: Praça da Liberdae
 
-`CURSO`
+`CURSO`: Engenharia da Computação
 
-`SEMESTRE`
+`SEMESTRE`: 1º semestre
 
-`DISCIPLINA`
+`DISCIPLINA`: Laboratório de Introdução à Engenharia de Computação
 
 
 ## Integrantes
