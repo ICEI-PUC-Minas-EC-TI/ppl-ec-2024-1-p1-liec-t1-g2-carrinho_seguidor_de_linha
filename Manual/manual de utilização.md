@@ -1,6 +1,24 @@
 
 ## Instruções de utilização
 
+![0](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/3f9f08f9-f7b8-471c-a072-7d4a55ad8783)
+
+![2](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/68740530-7449-493a-9875-620878337310)
+
+![3](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/e384e101-3329-4b9f-b760-0cdc42db2a1c)
+
+![4](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/38c61167-1170-47ca-89d5-2bb22b695544)
+
+![5](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/5a1ae5f1-62c4-4aa4-9550-b6614c1204b0)
+
+![6](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/27b85e29-8952-4af8-b488-72f02e4d46af)
+
+![7](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/423b1295-62c3-4d18-87e8-98d9ad9f5f58)
+
+![8](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/d85da558-8250-4862-81a9-077bdd9eeb96)
+
+![9](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/4618bd2f-c5ee-43a1-b86d-b6edc22a4f91)
+
 ![image5](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/8a8cd1fe-c5e9-4244-964f-ab09222938e4)
 
 ![image4](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/74238664-2fe1-4bc8-a77a-1a5a5ef27e5a)
@@ -25,6 +43,6 @@
 
 ![image7](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/72d82a20-7753-4f7c-af70-f2e8a055a57d)
 
-![image6](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/96ee042a-d54f-4256-939f-aa6fbb77c0b2)
+![22](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/b57f78bd-b05b-46cb-95b9-121e4b780bac)
 
-Assim que a primeira versão do projeto estiver disponível, deverá complementar com as instruções de utilização. Descreva como configurar o hardware/software e informações importantes para executar o projeto.
+![23](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-carrinho_seguidor_de_linha/assets/169935942/92f6296b-d07b-4dab-94d8-fb8517fcca98)
