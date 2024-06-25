@@ -12,8 +12,8 @@
 ## Integrantes
 
 * Ariel Inácio Jordão Coelho
-* Henrique Augusto Figueiredo Feydit Vieira
 * Gabriel Mamede Albino
+* Henrique Augusto Figueiredo Feydit Vieira
 * Pedro Gonçalves Constantino
 * Pedro Ricoy de Oliveira e Silva
 * Victor Teixeira Lenzoni
