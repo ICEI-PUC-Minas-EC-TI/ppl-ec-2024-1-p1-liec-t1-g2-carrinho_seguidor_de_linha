@@ -24,7 +24,11 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto desenvolvido pelo grupo é um robo seguidor de linha controlado pelo usuario, na qual e usado um ESP32, dois sensor de obstáculos reflexivo infravermelho, uma ponte H dupla L298N, 
+quatro motores DC 3-6V com rodas 68mm, um buzzer, um aplicativo cridado atraves do app inventor, e uma pista feita a base de cartolina branca e uma fita isolante preta.
+
+O trabalho tem como objetivo final o usuario controlar o carrinho atraves de celular, conectado via Bluetooth, e dar o maior numero de voltas sem encostar na fita preta, e se por algum acaso 
+ele encostar na fita o buzzer ira aptar indicando a derrota.
 
 # Código do ESP32
 
