@@ -11,7 +11,7 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Henrique Augusto;
-- Equipe de Desenvolvimento: Ariel Inácio, Victor Lenzoni, Pedro Ricoy, Gabriel Mamede, Pedro;
+- Equipe de Desenvolvimento: Ariel Inácio, Victor Teixeira, Pedro Ricoy, Gabriel Mamede, Pedro Gonçalves;
 
 
 ### Processo
