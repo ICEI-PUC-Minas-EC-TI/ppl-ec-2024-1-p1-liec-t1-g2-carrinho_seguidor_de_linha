@@ -12,11 +12,11 @@ Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das et
 
 ### Interface
 
-Descreva o desenvolvimento das telas do aplicativo.
+O aplicativo possui uma tela que consiste em 3 setas (uma para frente, uma para direita e outra para a esquerda). Além disso possuim a logo da PUC, tudo isso dentro de um Table Arrangement. Também possui o nome da disciplina e um botão que procura os dispositivos aptos a conectar via Bluetooth.
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
+O botão para conectar via Bluetooth apresenta ao clicar no botão uma lista dos dispositivos aptos a conectar. Já os botões de movimento do carrinho enviam variáveis do tipo "int" para orientar a direção que deve ser executada, sendo '2' para frente, '3' para direita e '4' para esquerda.
 
 ## Desenvolvimento do Hardware
 
