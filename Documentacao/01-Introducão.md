@@ -8,7 +8,7 @@ No campo da robótica seguidora de linha é particularmente desafiador em mobili
 
 ## Objetivos
 
-Os objetivos do projeto são
+Os objetivos do projeto são:
 
 • A criação de um robô seguidor de linha controlado por usuário com agilidade e estabilidade excepcionais.
 
