@@ -2,9 +2,20 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+- 1x Kit chassi 4WD Robô para Arduíno
+- 4x Motores DC 3-6v 
+- 1x Protoboard dupla
+- 1x Esp-32
+- 1x Módulo Ponte-H L298N
+- 1x Soquete para bateria de 9v
+- 1x Soquete para 4 pilhas AA (1,5v)
+- 1x Buzzer
+- 2x Sensores de Obstáculos Reflexivos Infravermelhos
+- Jumpers
 
 # Desenvolvimento
+
+Após estabalecer o escopo do projeto, como foi descrito na seção de "metodologias ágeis", o grupo começou a trabalhar na montagem do robô. Mais detalhes foram especificados na seção a seguir "Montagem". Depois de finalizarmos a montagem do robô e realizarmos vários testes para averiguar o funcionamento do Hardware, começamos a desenvolver o código do robô, que será mais detalahdo na seção a seguir "Desenvolvimento do Código".
 
 Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
 
@@ -22,7 +33,7 @@ O botão para conectar via Bluetooth apresenta ao clicar no botão uma lista dos
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+Primeiramente montamos o Kit chassi 4wd e colocamos os 4 motores acoplados ao kit. O próximo passo foi fixar os cabos dos quatro motores na ponte-H (apenas percebemos que essa não é uma montagem adequada após realizarmos os testes com os motores, mais adiante), conectamos ambos os polos negativos dos dois motores da esquerda no borne OUT 1 da ponte-H. Os polos positivos dos motores da esquerda foram conectados no borne OUT 2 da pone-H; enquanto que os polos positivos do par de motores da direita foram conectados no borne OUT 3, e os negativos, no borne OUT 4. Depois, seguimos com as 
 
 ### Desenvolvimento do Código
 
